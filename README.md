@@ -6,7 +6,7 @@ Welcome to the ultimate collection of my web development projects! This reposito
 
 | Serial Number | Name of the Project | Description                                | Demo Link                    |
 |---------------|---------------------|--------------------------------------------|------------------------------|
-| 1             | Random Quote Generator         | A dynamic app that fetches and displays random quotes. | [Live Demo]([http://example.com/weather](https://random-quote-generator-six-omega.vercel.app/)) |
+| 1             | Random Quote Generator         | A dynamic app that fetches and displays random quotes. | [Live Demo]((https://random-quote-generator-six-omega.vercel.app/)) |
 
 
 ## 🌟 Project Highlights
